@@ -1,3 +1,4 @@
 # Assignments-in-C
-This is my Git Repository for my college assignments
+Git Repository for my college assignments.
+<br>
 Author - Sudeep Sigdel
